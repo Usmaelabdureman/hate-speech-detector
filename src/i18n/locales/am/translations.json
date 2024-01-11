@@ -1,16 +1,17 @@
 {
-    "Hate Speech Detector": "የማይጠበቅ አይደሉም",
+    "Hate Speech Detector": "የጥላቻ ንግግር መርማሪ",
     "GitHub": "GitHub",
     "Message Us": "መልዕክት አስገባ",
-    "Hate Speech Detection": "የማይጠበቅ አይደለም",
-    "Enter text here...": "እዚህ ጽሁፎችን ይጫኑ...",
-    "Predict": "መታየት",
+    "Hate Speech Detection": "የጥላቻ ንግግር ማወቂያ",
+    "Enter text here...": "እዚህ ጽሁፍ አስገባ...",
+    "Predict": "መተንበይ",
     "About Us": "ስለ እኛ",
-    "Contact Us": "ያግኙን",
-    "Developers": "ተሳትፎን",
-    "Developed by:": "በሂደት ተሳትፎን:",
-    "Developer 1": "ተሳትፎ 1",
-    "Developer 2": "ተሳትፎ 2",
-    "All rights reserved": "ሁሉም ተመን ይደርሳል።"
+    "Contact Us": "አግኙን",
+    "Developers": "ገንቢዎች",
+    "Developed by:": "Developed by",
+    "Developer 1": "Usmael",
+    "Developer 2": "Falmata",
+    "All rights reserved": "መብቱ በህግ የተጠበቀ ነው",
+    "Error occurred during prediction. Please try again.": "በመተንበይ ጊዜ ስህተት ተከስቷል። እባክዎ ዳግም ይሞክሩ."
   }
   

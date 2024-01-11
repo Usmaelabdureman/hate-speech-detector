@@ -12,12 +12,15 @@ i18n.use(initReactI18next).init({
         },
         am: {
             translations:require('./locales/am/translations.json')
-        }
+        },
+        or: {
+            translations:require('./locales/or/translations.json')
+        },
     },
     ns: ['translations'],
     defaultNS: 'translations'
 });
 
-i18n.languages = ['en', 'am'];
+i18n.languages = ['en', 'am', 'or'];
 
 export default i18n;

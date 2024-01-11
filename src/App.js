@@ -20,7 +20,7 @@ function App() {
       setPredictedLabel(response.data.label);
       setError("");
     } catch (error) {
-      setError("Error occurred during prediction. Please try again.");
+      setError(t("Error occurred during prediction. Please try again."));
     }
   };
   return (

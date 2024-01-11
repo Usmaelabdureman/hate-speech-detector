@@ -9,13 +9,13 @@ const Footer = () => {
       <div className="mt-2">
         <ul className="flex justify-center">
           <li className="mx-2">
-            <a href="/about">{t('About Us')}</a>
+            <span>{t('About Us')}</span>
           </li>
           <li className="mx-2">
-            <a href="/contact">{t('Contact Us')}</a>
+            <span>{t('Contact Us')}</span>
           </li>
           <li className="mx-2">
-            <a href="/developers">{t('Developers')}</a>
+            <span>{t('Developers')}</span>
           </li>
         </ul>
       </div>
@@ -26,7 +26,7 @@ const Footer = () => {
             <a href="https://usmael.me/" target="_blank" rel="noopener noreferrer">{t('Developer 1')}</a>
           </li>
           <li className="mx-2">
-            <a href="https://example.com/developer2" target="_blank" rel="noopener noreferrer">{t('Developer 2')}</a>
+            <a href="https://github.com/Felmeta-M" target="_blank" rel="noopener noreferrer">{t('Developer 2')}</a>
           </li>
         </ul>
       </div>
